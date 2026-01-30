@@ -1,4 +1,4 @@
 # Random-Algorithm
-Some random shets
+Some random shets C++
 
 Day 1
